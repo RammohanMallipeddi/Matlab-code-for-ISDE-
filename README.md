@@ -1,4 +1,4 @@
-# Matlab-code-for-ISDE-
+# Matlab-code-for-ISDE+
 Source code for paper: ISDE+- an indicator for multi and many objective optimization
 
 This file consistes of MATLAB code for the paper:
